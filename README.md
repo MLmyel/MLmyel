@@ -16,6 +16,6 @@ This is a fresh profile and I'll be uploading some of my projects and experiment
 
 ---
 ### About me
-- 🌻 I'm nonbinary (they/them/ele/dele)
-- 🎮 Favourite past time is playing videogames (currently Death Stranding 2)
+- 🎮 My favourite past time is playing videogames (currently Death Stranding 2)
 - ✈️ I love traveling for the food
+- 🌻 I'm nonbinary
