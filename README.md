@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**MLmyel/MLmyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pamela, I'm a Data Scientist and Analyst Consultant based in Brazil.
+My favourite projects are related to Machine Learning, Deep Learning, Statistics and Data Visualization.
+This is a fresh profile and I'll be uploading some of my projects and experiments. Everything here is built from scratch.
 
-Here are some ideas to get you started:
+🎓 Recently graduated - MBA of Data Science and AI at FIAP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+### Tools & Skillset
+- Advanced SQL, Python (Pandas, Pyspark, matplotlib, Scikit-Learn, statsmodels, TensorFlow)
+- Databricks, AWS, Azure, Google Cloud Platform, Hadoop
+- Power BI, Tableau, Looker, Amazon Quicksight, Streamlit
+
+---
+### About me
+- 🌻 I'm nonbinary (they/them/ele/dele)
+- 🎮 Favourite past time is playing videogames (currently Death Stranding 2)
+- ✈️ I love traveling for the food
