@@ -3,7 +3,7 @@
 I'm Pamela, I'm a Data Scientist and Analytics Consultant based in Brazil.   
 My favourite projects are related to Machine Learning, Deep Learning, Statistics and Data Visualization.   
 This is a fresh profile and I'll be uploading some of my projects and experiments. Everything here is built from scratch.   
-🎓 Recently graduated - MBA of Data Science and AI at FIAP.
+🎓 Recently graduated - MBA of Data Science & AI at FIAP.
 
 --- 
 ### Tools & Skillset
